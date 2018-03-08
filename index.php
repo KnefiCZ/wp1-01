@@ -6,6 +6,7 @@
   </head>
   <body>
 <h1>Osobní profil</h1>
+    <<?php echo "ahojda" ?>
       <?php
 
 
